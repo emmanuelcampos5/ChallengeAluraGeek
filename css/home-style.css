@@ -1,0 +1,117 @@
+body {
+  font-family: "Press Start 2P", system-ui;
+}
+
+.navbar {
+  background-color: #5D04D9;
+  height: 100px;
+}
+
+.container-fluid {
+  margin-top: 100px;
+}
+
+.titulos {
+  font-size: 30px;
+  align-items: center;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 220px;
+}
+
+.card {
+  width: 15rem;
+  box-sizing: border-box;
+  height: 340px;
+  font-size: small;
+  background: #5D04D9;
+  border: 3px solid black;
+  border-radius: 10px;
+  cursor: pointer;
+  display: flex;
+  color: white;
+}
+
+.card:hover {
+  border: 1px solid black;
+  transform: scale(1.05);
+}
+
+.scrollable-div{
+  border-radius: 10px;
+  padding-top: 10px;
+  max-height: 1140px;
+  overflow-y: auto;
+  box-shadow: -28px 24px 23px 4px rgba(0,0,0,0.83);
+}
+
+.botonEliminar {
+  width: 23px;
+  height: 25px;
+  border: none;
+  background: url(../img/iconoEliminar.png);
+}
+
+.botonEliminar:active {
+  transform: scale(0.95);
+  background-color: black;
+}
+
+
+.input {
+  padding: 10px;
+  font-size: 14px;
+  height: 50px;
+  width: 90%;
+  margin-bottom: 30px;
+  border: 3px solid #03318C;
+  border-radius: 20px;
+}
+
+.input::placeholder {
+  color: #03318C;
+}
+
+.btn {
+  width: 35%;
+  height: 50px;
+  font-family: "Press Start 2P", system-ui;
+  border-radius: 7px;
+  border-color: #03318C;
+  font-size: 12px;
+  padding: 1px;
+}
+
+.btnEnviar {
+  background: #03318C;
+  color: white;
+}
+
+.btnLimpiar {
+  background: #FFFFFF;
+  border: 2px solid;
+  color: #03318C;
+}
+
+.footer{
+  background-color: #5D04D9;
+  color: white;
+  padding: 30px;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  background-color: #f1f1f1; /* Color del fondo del scrollbar */
+}
+
+::-webkit-scrollbar-track {
+  border-radius: 10px;
+  background-color: #f1f1f1; /* Color del track (fondo del scrollbar) */
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background-color: #ccc; /* Color del thumb (botón del scrollbar) */
+}

@@ -1,0 +1,76 @@
+{
+  "productos": [
+    {
+      "id": "7669",
+      "nombreProducto": "Letrero PS",
+      "precioProducto": "$80",
+      "imagenProducto": "https://lomasvendidodelmercado.com/wp-content/uploads/2024/02/81WdpXeEL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "8307",
+      "nombreProducto": "Case ASSA",
+      "precioProducto": "$70",
+      "imagenProducto": "https://www.cqnetcr.com/115000-home_default/torre-azza-spectra-semitorre-atx-gaming-280b-fan.jpg"
+    },
+    {
+      "id": "b3c4",
+      "nombreProducto": "PC Gamer",
+      "precioProducto": "$500",
+      "imagenProducto": "https://www.qloud.ar/SITES/IMG/gaming-point-06-2021/221_12-10-2022-05-10-54-gaming-point---aorus-familia---mobile-600x400.jpg"
+    },
+    {
+      "id": "02a7",
+      "nombreProducto": "Audifonos Gamer",
+      "precioProducto": "$200",
+      "imagenProducto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpn2lIhaPyCTsiJR87cYAWpUase9aBImGjKQ&s"
+    },
+    {
+      "id": "8bb1",
+      "nombreProducto": "Mouse Gamer",
+      "precioProducto": "$20",
+      "imagenProducto": "https://www.mundolaptops.com/wp-content/uploads/2022/10/MOUSE-GAMER-HA-M329-GALLO-430x394.jpg.webp"
+    },
+    {
+      "id": "5f92",
+      "nombreProducto": "Combo Mouse Teclado",
+      "precioProducto": "$30",
+      "imagenProducto": "https://www.asus.com/media/odin/websites/ES/News/bfzb2isazismbl9m/IMG_0064.jpg"
+    },
+    {
+      "id": "aa29",
+      "nombreProducto": "Combo Especial PC",
+      "precioProducto": "$700",
+      "imagenProducto": "https://cyberteamcr.com/wp-content/uploads/2023/03/AMD-RYZEN-5-4500-RTX-2060-6-GB_10_11zon_10_11zon_10_11zon.webp"
+    },
+    {
+      "id": "cb49",
+      "nombreProducto": "Asus Video Card",
+      "precioProducto": "$700",
+      "imagenProducto": "https://www.muycomputer.com/wp-content/uploads/2020/09/RTX-30-2.jpg"
+    },
+    {
+      "id": "2342",
+      "nombreProducto": "Combo Armario Gamer",
+      "precioProducto": "$800",
+      "imagenProducto": "https://www.tiendamexpress.com/images/thumbs/0053165_combo-qmovi-armario-gamer-escritorio-gamer_600.jpeg"
+    },
+    {
+      "id": "659f",
+      "nombreProducto": "Silla Gamer",
+      "precioProducto": "$160",
+      "imagenProducto": "https://www.istore.cr/cdn/shop/files/silla-gamer-dart-vader-costa-rica.jpg?v=1697510506&width=533"
+    },
+    {
+      "id": "5173",
+      "nombreProducto": "Combo Desk",
+      "precioProducto": "$250",
+      "imagenProducto": "https://www.lavanguardia.com/andro4all/hero/2024/04/productos-de-elgato.jpg?width=768&aspect_ratio=16:9&format=nowebp"
+    },
+    {
+      "id": "0896",
+      "nombreProducto": "Stream Deck",
+      "precioProducto": "$150",
+      "imagenProducto": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2020/03/18/15845300421265.jpg"
+    }
+  ]
+}
